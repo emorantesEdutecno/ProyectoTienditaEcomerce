@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../sass/main.scss","../sass/base/_basestyle.scss","../sass/layout/_parrafos.scss","../sass/abstracts/_variables.scss","../sass/components/_cards.scss","../sass/components/_buttons.scss"],"names":[],"mappings":"AAAA;AAGA;AAGA;ACNA;EACI;;;ADQJ;AETA;EACI,WCSY;EDRZ,OCKS;;;AHMb;AIPA;EACI,kBDJS;;;AEHb;EACI,kBFMS;;;AHWb;AAGA","file":"main.css"}
